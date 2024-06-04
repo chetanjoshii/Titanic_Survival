@@ -1,0 +1,1 @@
+print('Titanic Survival Project File Initiated'.center(80, '*'))
